@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>유니온케어 - 줄눈시공 탄성코트 전문</title>
+    <link>https://juystyle.github.io/unionhomcare/</link>
+    <description>줄눈시공·탄성코트 전문 유니온케어. 욕실·주방 줄눈 교체, 아파트·빌라 외벽 탄성코트 시공 전문. 무료 현장 방문 견적. 연중무휴 AM9:00-PM7:00. 대표 엄남회 010-9429-7755</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 15 Jan 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="https://juystyle.github.io/unionhomcare/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>줄눈시공 전문 서비스 - 욕실·주방·베란다 줄눈 교체</title>
+      <link>https://juystyle.github.io/unionhomcare/#services</link>
+      <description>욕실, 화장실, 주방 등 타일 사이의 오래된 줄눈을 깨끗하게 교체합니다. 항균·항곰팡이 소재 사용. 색상 선택 가능 20가지 이상. 시공 후 AS 보장. 무료 현장 방문 견적 제공.</description>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+      <guid>https://juystyle.github.io/unionhomcare/#services-julnoon</guid>
+    </item>
+
+    <item>
+      <title>탄성코트 시공 전문 - 아파트·빌라·주택 외벽 방수</title>
+      <link>https://juystyle.github.io/unionhomcare/#services</link>
+      <description>건물 외벽 균열 및 방수 문제를 탄성코트로 완벽 해결합니다. 방수·방음·단열 효과. 아파트·빌라·주택 모두 가능. 친환경 소재 사용. 무료 현장 방문 견적 제공.</description>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+      <guid>https://juystyle.github.io/unionhomcare/#services-tansung</guid>
+    </item>
+
+    <item>
+      <title>줄눈+탄성코트 복합 시공 패키지 할인</title>
+      <link>https://juystyle.github.io/unionhomcare/#services</link>
+      <description>줄눈 시공과 탄성코트를 함께 진행하는 패키지. 패키지 할인 혜택, 내·외부 동시 시공, 공사 기간 단축. 전담 매니저 배정. 합리적인 가격으로 집 전체를 깔끔하게.</description>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+      <guid>https://juystyle.github.io/unionhomcare/#services-package</guid>
+    </item>
+
+    <item>
+      <title>시공 절차 안내 - 상담부터 AS까지 5단계</title>
+      <link>https://juystyle.github.io/unionhomcare/#process</link>
+      <description>상담 접수 → 현장 방문 → 견적 제안 → 시공 진행 → 완료 및 AS. 무료 현장 방문 후 투명한 견적 제공. 전문 기술진이 꼼꼼하게 시공합니다.</description>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+      <guid>https://juystyle.github.io/unionhomcare/#process</guid>
+    </item>
+
+    <item>
+      <title>가격 안내 - 줄눈시공·탄성코트 무료 현장 견적</title>
+      <link>https://juystyle.github.io/unionhomcare/#pricing</link>
+      <description>줄눈시공, 탄성코트, 패키지 시공 가격 안내. 현장 방문 후 정확한 견적 제공. 투명하고 합리적인 가격. 연중무휴 운영 AM 9:00 - PM 7:00. 대표 엄남회 010-9429-7755.</description>
+      <pubDate>Wed, 15 Jan 2025 09:00:00 +0900</pubDate>
+      <guid>https://juystyle.github.io/unionhomcare/#pricing</guid>
+    </item>
+
+  </channel>
+</rss>
